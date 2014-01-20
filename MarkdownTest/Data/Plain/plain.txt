@@ -1,0 +1,1 @@
+Next Limit have released the latest version of their fluid simulation tool, RealFlow 2013. This version offers an all new UI, Hybrido 2, Alembic support, Maxwell Render previews, and much more. For the full details, you can visit the RealFlow page on the Next Limit website.

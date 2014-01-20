@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Max Underground</title>
+	<atom:link href="http://www.maxunderground.com/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.maxunderground.com</link>
+	<description>Max Underground delivers the latest news on 3DS Max, plugins, tutorials, articles, animation, CG/VFX productions and more.</description>
+	<lastBuildDate>Mon, 27 May 2013 17:58:03 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=3.4.1</generator>
+	<language></language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.1</generator>
+		<item>
+		<title>RealFlow 2013 released                </title>
+		<link>http://www.maxunderground.com/archives/18905_realflow_2013_released.html</link>
+		<pubDate>Mon, 27 May 2013 15:42:39 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18905</guid>
+		<description><![CDATA[Next Limit have released the latest version of their fluid simulation tool, RealFlow 2013. This latest version offers an all new UI, Hybrido 2, Alembic support, Maxwell Render previews, and much more. For the full details, you can visit the RealFlow page on the Next Limit website.]]></description>
+			<content:encoded><![CDATA[<p>Next Limit have released the latest version of their fluid simulation tool, RealFlow 2013. This latest version offers an all new UI, Hybrido 2, Alembic support, Maxwell Render previews, and much [...] <a href="http://www.maxunderground.com/archives/18905_realflow_2013_released.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The state of the VFX industry and where do we go from here                </title>
+		<link>http://www.maxunderground.com/archives/18904_the_state_of_the_vfx_industry_and_where_do_we_go_from_here.html</link>
+		<pubDate>Mon, 27 May 2013 14:04:17 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18904</guid>
+		<description><![CDATA[A recording of Scott Ross and Scott Squires discussing the VFX industries&#8217; situation at the recent NAB show has been made available. Watch it on Vimeo.]]></description>
+			<content:encoded><![CDATA[<p>A recording of Scott Ross and Scott Squires discussing the VFX industries&#8217; situation at the recent NAB show has been made available. Watch it on Vimeo.
+ <a href="http://www.maxunderground.com/archives/18904_the_state_of_the_vfx_industry_and_where_do_we_go_from_here.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FumeFX for Maya is out                </title>
+		<link>http://www.maxunderground.com/archives/18903_fumefx_for_maya_is_out.html</link>
+		<pubDate>Mon, 27 May 2013 14:03:50 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18903</guid>
+		<description><![CDATA[Sitni Sati announced that their fluid dynamics plugin for simulating fire and smoke effects is now available for Maya. The plugin is the result of a collaboration between Luma Pictures, Digic Pictures and Sitni Sati. More on Sitni Sati&#8217;s website.]]></description>
+			<content:encoded><![CDATA[<p>Sitni Sati announced that their fluid dynamics plugin for simulating fire and smoke effects is now available for Maya. The plugin is the result of a collaboration between Luma Pictures, Digic [...] <a href="http://www.maxunderground.com/archives/18903_fumefx_for_maya_is_out.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Animation polishing tips by Pixar animator Michal Makarewicz                </title>
+		<link>http://www.maxunderground.com/archives/18902_animation_polishing_tips_by_pixar_animator_michal_makarewicz.html</link>
+		<pubDate>Mon, 27 May 2013 14:03:24 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18902</guid>
+		<description><![CDATA[Animation Mentor has posted a video showing how to add that special last 10% of polish to make your animation great. Watch it on YouTube.]]></description>
+			<content:encoded><![CDATA[<p>Animation Mentor has posted a video showing how to add that special last 10% of polish to make your animation great. Watch it on YouTube.
+ <a href="http://www.maxunderground.com/archives/18902_animation_polishing_tips_by_pixar_animator_michal_makarewicz.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Creating rough metal materials                </title>
+		<link>http://www.maxunderground.com/archives/18901_creating_rough_metal_materials.html</link>
+		<pubDate>Sun, 26 May 2013 13:07:41 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18901</guid>
+		<description><![CDATA[Bertrand Benoit has released a new tutorial in his materialism series, this time focusing on a very detailed V-Ray setup for rough metals. Read it on BBB3viz.]]></description>
+			<content:encoded><![CDATA[<p>Bertrand Benoit has released a new tutorial in his materialism series, this time focusing on a very detailed V-Ray setup for rough metals. Read it on BBB3viz.
+ <a href="http://www.maxunderground.com/archives/18901_creating_rough_metal_materials.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gary Yost&#8217;s Mount Tam Jam teaser                </title>
+		<link>http://www.maxunderground.com/archives/18900_gary_yosts_mount_tam_jam_teaser.html</link>
+		<pubDate>Fri, 24 May 2013 18:35:56 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18900</guid>
+		<description><![CDATA[The latest project coming from Gary Yost, a wonderful timelapse sequence that shows rarely-seen sights on and around California&#8217;s Mount Tamalpais. Watch it on Vimeo.]]></description>
+			<content:encoded><![CDATA[<p>The latest project coming from Gary Yost, a wonderful timelapse sequence that shows rarely-seen sights on and around California&#8217;s Mount Tamalpais. Watch it on Vimeo.
+ <a href="http://www.maxunderground.com/archives/18900_gary_yosts_mount_tam_jam_teaser.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Setting up a V-Ray shading and lighting pipeline &#8211; V-Ray masterclass                </title>
+		<link>http://www.maxunderground.com/archives/18899_setting_up_a_v_ray_shading_and_lighting_pipeline.html</link>
+		<pubDate>Fri, 24 May 2013 03:16:05 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18899</guid>
+		<description><![CDATA[A tutorial by Chaos Group&#8217;s Konstantin Gaytandzhiev that teaches a number of techniques including: managing large scenes, texture shortcuts using V-Ray procedurals, optimizing GI for animation, using V-Ray&#8217;s Render Elements and creating customized render passes, multi-channel OpenEXR output, etc. Watch it on YouTube.]]></description>
+			<content:encoded><![CDATA[<p>A tutorial by Chaos Group&#8217;s Konstantin Gaytandzhiev that teaches a number of techniques including: managing large scenes, texture shortcuts using V-Ray procedurals, optimizing GI for animation, using V-Ray&#8217;s Render Elements and [...] <a href="http://www.maxunderground.com/archives/18899_setting_up_a_v_ray_shading_and_lighting_pipeline.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photography techniques to speed up interior renders in Maxwell Render                </title>
+		<link>http://www.maxunderground.com/archives/18898_photography_techniques_to_speed_up_interior_renders_in_maxwell_render.html</link>
+		<pubDate>Fri, 24 May 2013 03:04:00 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18898</guid>
+		<description><![CDATA[A tutorial on Next Limit&#8217;s website.]]></description>
+			<content:encoded><![CDATA[<p>A tutorial on Next Limit&#8217;s website.
+ <a href="http://www.maxunderground.com/archives/18898_photography_techniques_to_speed_up_interior_renders_in_maxwell_render.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Disabling caddies in Max 2014                </title>
+		<link>http://www.maxunderground.com/archives/18897_disabling_caddies_in_max_2014.html</link>
+		<pubDate>Fri, 24 May 2013 03:03:29 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18897</guid>
+		<description><![CDATA[A quick tip on Autodesk&#8217;s MaxStation blog.]]></description>
+			<content:encoded><![CDATA[<p>A quick tip on Autodesk&#8217;s MaxStation blog.
+ <a href="http://www.maxunderground.com/archives/18897_disabling_caddies_in_max_2014.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Adrien Rollet&#8217;s FX reel 2013                </title>
+		<link>http://www.maxunderground.com/archives/18896_adrien_rollets_fx_reel_2013.html</link>
+		<pubDate>Thu, 23 May 2013 14:26:02 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18896</guid>
+		<description><![CDATA[French FX artist Adrien Rollet has posted online his latest reel. Watch it on Vimeo.]]></description>
+			<content:encoded><![CDATA[<p>French FX artist Adrien Rollet has posted online his latest reel. Watch it on Vimeo.
+ <a href="http://www.maxunderground.com/archives/18896_adrien_rollets_fx_reel_2013.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Creating an old wall                </title>
+		<link>http://www.maxunderground.com/archives/18894_creating_and_old_wall.html</link>
+		<pubDate>Thu, 23 May 2013 11:17:25 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18894</guid>
+		<description><![CDATA[Evermotion have released a video tutorial focused on creating an old and weathered wall using 3DS Max and ZBrush. You can check it out on their Vimeo channel.]]></description>
+			<content:encoded><![CDATA[<p>Evermotion have released a video tutorial focused on creating an old and weathered wall using 3DS Max and ZBrush. You can check it out on their Vimeo channel.
+ <a href="http://www.maxunderground.com/archives/18894_creating_and_old_wall.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Octane Render review (review)                </title>
+		<link>http://www.maxunderground.com/archives/18883_octane_render_review.html</link>
+		<pubDate>Wed, 22 May 2013 23:41:27 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18883</guid>
+		<description><![CDATA[We have the pleasure to present readers with another quality review. MU editor and professor Paul Roberts reviews Octane Render, Otoy&#8217;s GPU-accelerated, unbiased renderer and its 3DS Max integration: &#8220;&#8230;a renderer that produces excellent results, fast.&#8221; Read the review.]]></description>
+			<content:encoded><![CDATA[<p><a href='http://www.maxunderground.com/archives/18883_octane_render_review.html'><img src='http://www.maxunderground.com/wp-content/uploads/2013/05/octanerev_sq.jpg' alt='' title='' border=0 /></a></p><p>We have the pleasure to present readers with another quality review. MU editor and professor Paul Roberts reviews Octane Render, Otoy&#8217;s GPU-accelerated, unbiased renderer and its 3DS Max integration: &#8220;&#8230;a renderer [...] <a href="http://www.maxunderground.com/archives/18883_octane_render_review.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SIGGRAPH 2013 technical papers video preview                </title>
+		<link>http://www.maxunderground.com/archives/18892_siggraph_2013_technical_papers_video_preview.html</link>
+		<pubDate>Wed, 22 May 2013 22:59:39 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18892</guid>
+		<description><![CDATA[Some notable papers will be presented at this year&#8217;s SIGGRAPH. Watch the video preview on YouTube. Links to the available papers can be found on Ke-Sen Huang&#8217;s website.]]></description>
+			<content:encoded><![CDATA[<p>Some notable papers will be presented at this year&#8217;s SIGGRAPH. Watch the video preview on YouTube. Links to the available papers can be found on Ke-Sen Huang&#8217;s website.
+ <a href="http://www.maxunderground.com/archives/18892_siggraph_2013_technical_papers_video_preview.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Unity mobile free for IOS and Android developers                </title>
+		<link>http://www.maxunderground.com/archives/18887_unity_mobile_free_for_ios_and_android_developers.html</link>
+		<pubDate>Wed, 22 May 2013 14:46:05 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18887</guid>
+		<description><![CDATA[Unity has made their IOS and Android expansions free for mobile developers with Blackberry 10 and Windows Phone 8 expected in the next few months. As with the main application, there remain a paid professional edition with many more features. Find out more at Unity3D.]]></description>
+			<content:encoded><![CDATA[<p>Unity has made their IOS and Android expansions free for mobile developers with  Blackberry 10 and Windows Phone 8 expected in the next few months. As with the main application, [...] <a href="http://www.maxunderground.com/archives/18887_unity_mobile_free_for_ios_and_android_developers.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Sketchup Pro 2013 released                </title>
+		<link>http://www.maxunderground.com/archives/18886_sketchup_pro_2013_released.html</link>
+		<pubDate>Wed, 22 May 2013 14:25:00 +0000</pubDate> 
+		<guid isPermaLink="false">http://www.maxunderground.com/?p=18886</guid>
+		<description><![CDATA[Sketchup 2013 has been released, the first significant update since Trimble acquired the software from Google last year. The new version includes a new copy-array tool for LayOut, curved label leader lines, dashes in dimensions, improvements in screen redraw and vector rendering efficiency, and the new extensions warehouse allowing users to search and install plugins [...]]]></description>
+			<content:encoded><![CDATA[<p>Sketchup 2013 has been released, the first significant update since Trimble acquired the software from Google last year. The new version includes a new copy-array tool for LayOut, curved label leader [...] <a href="http://www.maxunderground.com/archives/18886_sketchup_pro_2013_released.html">See news item</a></p>]]></content:encoded>
+			<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,5 @@
+﻿This is a [sample][3] file that contains empty links.
+
+And these links need to be removed from the file.
+
+  [3]: http://www.thinkingmedia.ca

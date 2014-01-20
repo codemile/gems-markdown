@@ -1,0 +1,7 @@
+﻿[[][2]][3]This is a [sample][3] file that contains empty links.
+
+[][1]And these links need to be removed from the file.
+
+  [1]: http://www.cnn.com
+  [2]: http://www.example.com
+  [3]: http://www.thinkingmedia.ca

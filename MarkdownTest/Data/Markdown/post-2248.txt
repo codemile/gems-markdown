@@ -1,0 +1,61 @@
+﻿![feature][1]
+
+Computer Science Ph.D. students Kai Chang and Jens Windau of tech startup [AIO Robotics][2] have just announced that they've been developing an 'All-in-One' 3D copy machine similar to that of what we have seen with 2D printers.  The 'copier' from Chang and Windau would essentially let you be able to scan, print, copy, and fax 3D objects directly from one machine without the need of transferring to other different machines.  With the [MakerBot Digitizer just days away from a release][3], will the Zeus All-in-One be MakerBot's biggest threat?
+
+# The Zeus All-in-One 3D Print/Scan/Copy/Fax #
+
+![zeus-aio-3d-copy-machine-1][4]
+
+Featuring a 7-inch color touchscreen and an ARM based on-board computer, the Zeus is able to operate independently without the need to run through an existing desktop setup.  For storage and final 3D reconstruction, all of the scanned data is uploaded to the cloud and can be saved or printed.  According to a statement by AIO Robotics on the online discussion board [RoboSavvy][5]:
+
+> "All linear components are made by CNC-machined aluminum (xyz-carrier, turntable) to ensure super rigid structure without any deforming and heat soaking.  In addition, we also created an auto-bed leveling feature by integrating a Z-probe mechanism onto the extruder.  This way, users don't need to calibrate the bed height at all.  We will include a full API-package for developers to fully control all sensor and motors."
+
+"Users don't need to calibrate the bed height at all."?  It'll be interesting to see how this plays out given that a 3d printing 'user' has taken on different meanings within the last year alone.  To put things into perspective, even some of the most user-friendly 3D printers still require a good amount of elbow grease to get things properly calibrated.  In a separate discussion on [RepRap][6], AIO also mentioned that using the cloud would be a cheaper and faster option for boosting speed, however the Zeus will also feature internet-free scanning and printing with a 'standard speed' option.  It was also stated that they will eventually have a more expensive hardware option with extra hardware that will achieve similar speed options to the Cloud Boost without an internet connection.
+
+![zeus-aio-3d-copy-machine-6][7]
+
+In terms of print precision, AIO has stated that the Zeus prints at 100 micron resolution with a single extruder (on par with the MakerBot Replicator 2).  However they also stated that there will be multiple extruder upgrade option that will make it possible to print at a higher resolution.
+
+In all honesty, it's not surprising that a Kickstarter project would be among the first to breach into 3D printing All-in-One territory--however just like the ever-popular botObjects 3D printers, the public is yet to see much outside of a rendering leading up to the Kickstarter launch (Kickstarter requires evidence of a working prototype).  In terms of cost, AIO has stated that the machine will be less than the combined cost of a MakerBot Replicator 2 and MakerBot Digitizer.  Which brings up the question: Why has it taken so long for MakerBot to release any 3D scanner and why have they not tested the All-in-One market yet?
+
+Stay tuned in the next few weeks where we'll interview the AIO team to hear more about their plans for the Kickstarter launch and what their machine means for today's 3D printing market.
+
+(Images via [AIO][2])
+
+###Related Posts###
+
+- [![OUYA Video Game Console teams up with MakerBot to Offer Custom 3D Print Options][9]][8][OUYA Video Game Console teams up with MakerBot to Offer Custom 3D Print Options][8]
+- [![PBS Off Book: The Best Video on the Current State of 3D Printing ][11]][10][PBS Off Book: The Best Video on the Current State of 3D Printing ][10]
+- [![3D Printed Injection Molds Gives You Hundreds of Units in a Matter of Hours \[Video\]][13]][12][3D Printed Injection Molds Gives You Hundreds of Units in a Matter of Hours \[Video\]][12]
+- [![20 Predictions for DESIGN, TECH, CAD & FAB in 2013][15]][14][20 Predictions for DESIGN, TECH, CAD & FAB in 2013][14]
+
+[![][17]][16][![][19]][18][![][21]][20][![][23]][22][![][25]][24][![][27]][26]![][28]
+
+  [1]: http://solidsmack.com/wp-content/uploads/2013/08/feature17-625x330.jpg
+  [2]: http://aiorobotics.com/
+  [3]: http://solidsmack.com/cad-design-news/3d-scanning-for-the-masses-makerbot-digitizer-to-be-released-next-week/
+  [4]: http://solidsmack.com/wp-content/uploads/2013/08/zeus-aio-3d-copy-machine-1.png
+  [5]: http://robosavvy.com/forum/viewtopic.php?t=9724
+  [6]: http://forums.reprap.org/read.php?1,237494,237742
+  [7]: http://solidsmack.com/wp-content/uploads/2013/08/zeus-aio-3d-copy-machine-6.jpg
+  [8]: http://solidsmack.com/cad-design-news/ouya-video-game-console-teams-up-with-makerbot-to-offer-custom-3d-print-options/
+  [9]: http://solidsmack.com/wp-content/uploads/2013/03/console-150x150.jpg
+  [10]: http://solidsmack.com/culture/pbs-off-book-the-best-video-on-the-current-state-of-3d-printing/
+  [11]: http://solidsmack.com/wp-content/uploads/2013/03/feature-150x150.jpg
+  [12]: http://solidsmack.com/fabrication/3d-printed-injection-molds-gives-you-hundreds-of-units-in-a-matter-of-hours-video/
+  [13]: http://solidsmack.com/wp-content/uploads/2013/04/feature5-150x150.jpg
+  [14]: http://solidsmack.com/design/20-predictions-for-design-tech-cad-fab-in-2013/
+  [15]: http://solidsmack.com/wp-content/uploads/2013/01/2013-predictions-tech-cad-fab-150x150.jpg
+  [16]: http://feeds.feedburner.com/~ff/solidsmack?a=Uyok68WnFKI:uD5IH_qhjkc:yIl2AUoC8zA
+  [17]: http://feeds.feedburner.com/~ff/solidsmack?d=yIl2AUoC8zA
+  [18]: http://feeds.feedburner.com/~ff/solidsmack?a=Uyok68WnFKI:uD5IH_qhjkc:F7zBnMyn0Lo
+  [19]: http://feeds.feedburner.com/~ff/solidsmack?i=Uyok68WnFKI:uD5IH_qhjkc:F7zBnMyn0Lo
+  [20]: http://feeds.feedburner.com/~ff/solidsmack?a=Uyok68WnFKI:uD5IH_qhjkc:V_sGLiPBpWU
+  [21]: http://feeds.feedburner.com/~ff/solidsmack?i=Uyok68WnFKI:uD5IH_qhjkc:V_sGLiPBpWU
+  [22]: http://feeds.feedburner.com/~ff/solidsmack?a=Uyok68WnFKI:uD5IH_qhjkc:gIN9vFwOqvQ
+  [23]: http://feeds.feedburner.com/~ff/solidsmack?i=Uyok68WnFKI:uD5IH_qhjkc:gIN9vFwOqvQ
+  [24]: http://feeds.feedburner.com/~ff/solidsmack?a=Uyok68WnFKI:uD5IH_qhjkc:bcOpcFrp8Mo
+  [25]: http://feeds.feedburner.com/~ff/solidsmack?d=bcOpcFrp8Mo
+  [26]: http://feeds.feedburner.com/~ff/solidsmack?a=Uyok68WnFKI:uD5IH_qhjkc:SgOd0wtLEOk
+  [27]: http://feeds.feedburner.com/~ff/solidsmack?i=Uyok68WnFKI:uD5IH_qhjkc:SgOd0wtLEOk
+  [28]: http://feeds.feedburner.com/~r/solidsmack/~4/Uyok68WnFKI

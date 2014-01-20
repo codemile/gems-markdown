@@ -85,7 +85,7 @@
     <Compile Include="Converter\SimpleXmlNodeTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\NoSweatBudgets\CommonTest\CommonTest.csproj">
+    <ProjectReference Include="..\..\..\c-sharp\NoSweatBudgets\CommonTest\CommonTest.csproj">
       <Project>{DDFD3AED-4005-4FA0-97F6-B5F8796A1263}</Project>
       <Name>CommonTest</Name>
     </ProjectReference>

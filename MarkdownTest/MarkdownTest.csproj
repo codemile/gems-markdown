@@ -91,7 +91,7 @@
     </ProjectReference>
     <ProjectReference Include="..\Markdown\Markdown.csproj">
       <Project>{32E68B04-B736-4732-8049-74E794AA0F32}</Project>
-      <Name>Markdown</Name>
+      <Name>Markdown %28GitHub\Markdown\Markdown%29</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

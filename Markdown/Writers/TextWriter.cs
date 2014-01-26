@@ -16,17 +16,17 @@ namespace Markdown.Writers
         private StringBuilder _buffer;
 
         /// <summary>
-        /// Add linefeed characters for paragraphs.
-        /// </summary>
-        private bool _lineFeeds { get; set; }
-
-        /// <summary>
         /// The converted text
         /// </summary>
         public string Text
         {
             get { return _buffer.ToString(); }
         }
+
+        /// <summary>
+        /// Add linefeed characters for paragraphs.
+        /// </summary>
+        private bool _lineFeeds { get; set; }
 
         /// <summary>
         /// Constructor

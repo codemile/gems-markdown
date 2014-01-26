@@ -215,22 +215,6 @@ namespace Markdown.Readers
         }
 
         /// <summary>
-        /// Returns all the references of the specified type.
-        /// </summary>
-        public List<Reference> getReferences(ReferenceType pType)
-        {
-            return (from Reference r in References.Values where r.Type == pType select r).ToList();
-        }
-
-        /// <summary>
-        /// Returns the reference by it's ID.
-        /// </summary>
-        public Reference getReference(int pID)
-        {
-            return References[pID];
-        }
-
-        /// <summary>
         /// Removes a reference from the document.
         /// </summary>
         public void Remove(int pID)
@@ -275,6 +259,22 @@ namespace Markdown.Readers
                     changed = true;
                 }
             } while (changed);
+        }
+
+        /// <summary>
+        /// Returns the reference by it's ID.
+        /// </summary>
+        public Reference getReference(int pID)
+        {
+            return References[pID];
+        }
+
+        /// <summary>
+        /// Returns all the references of the specified type.
+        /// </summary>
+        public List<Reference> getReferences(ReferenceType pType)
+        {
+            return (from Reference r in References.Values where r.Type == pType select r).ToList();
         }
 
         /// <summary>

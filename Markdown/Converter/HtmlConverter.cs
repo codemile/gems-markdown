@@ -62,25 +62,6 @@ namespace Markdown.Converter
         }
 
         /// <summary>
-        /// Sends the data from the XML node to the writer for storage.
-        /// </summary>
-        private static void WriteNode(XmlReader pReader, iDocumentWriter pWriter)
-        {
-            switch (pReader.NodeType)
-            {
-                case XmlNodeType.Text:
-                    pWriter.WriteText(new SimpleXmlNode(pReader));
-                    break;
-                case XmlNodeType.Element:
-                    pWriter.WriteOpen(new SimpleXmlNode(pReader));
-                    break;
-                case XmlNodeType.EndElement:
-                    pWriter.WriteClose(new SimpleXmlNode(pReader));
-                    break;
-            }
-        }
-
-        /// <summary>
         /// Reads all the XML nodes in the stream, and dispatches to all the
         /// writers.
         /// </summary>
@@ -99,6 +80,25 @@ namespace Markdown.Converter
                         WriteNode(pReader, pWriters[i]);
                     }
                 }
+            }
+        }
+
+        /// <summary>
+        /// Sends the data from the XML node to the writer for storage.
+        /// </summary>
+        private static void WriteNode(XmlReader pReader, iDocumentWriter pWriter)
+        {
+            switch (pReader.NodeType)
+            {
+                case XmlNodeType.Text:
+                    pWriter.WriteText(new SimpleXmlNode(pReader));
+                    break;
+                case XmlNodeType.Element:
+                    pWriter.WriteOpen(new SimpleXmlNode(pReader));
+                    break;
+                case XmlNodeType.EndElement:
+                    pWriter.WriteClose(new SimpleXmlNode(pReader));
+                    break;
             }
         }
 
@@ -133,6 +133,22 @@ namespace Markdown.Converter
         }
 
         /// <summary>
+        /// Constructor
+        /// </summary>
+        public static void Convert(IList<iDocumentWriter> pWriters, string pHTML)
+        {
+            OpenWriters(pWriters);
+
+            pHTML = CleanHTML(pHTML);
+            using (XmlReader reader = HTMLToXmlReader(pHTML))
+            {
+                ReadNodes(reader, pWriters);
+            }
+
+            CloseWriters(pWriters);
+        }
+
+        /// <summary>
         /// Creates an XmlTextReader from a HTML source.
         /// </summary>
         public static XmlReader HTMLToXmlReader(string pHTML)
@@ -154,22 +170,6 @@ namespace Markdown.Converter
         public static bool isHTML(string pHTML)
         {
             return (pHTML.Length > 1 && pHTML[0] == '<');
-        }
-
-        /// <summary>
-        /// Constructor
-        /// </summary>
-        public static void Convert(IList<iDocumentWriter> pWriters, string pHTML)
-        {
-            OpenWriters(pWriters);
-
-            pHTML = CleanHTML(pHTML);
-            using (XmlReader reader = HTMLToXmlReader(pHTML))
-            {
-                ReadNodes(reader, pWriters);
-            }
-
-            CloseWriters(pWriters);
         }
     }
 }

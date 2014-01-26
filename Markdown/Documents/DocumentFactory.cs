@@ -69,11 +69,7 @@ namespace Markdown.Documents
         /// </summary>
         public int Count(string pType)
         {
-            if (_fragments.ContainsKey(pType))
-            {
-                return _fragments[pType].Count;
-            }
-            return 0;
+            return _fragments.ContainsKey(pType) ? _fragments[pType].Count : 0;
         }
     }
 }

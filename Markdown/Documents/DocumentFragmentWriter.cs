@@ -23,6 +23,11 @@ namespace Markdown.Documents
         private StringBuilder _paragraph;
 
         /// <summary>
+        /// The document fragments.
+        /// </summary>
+        public DocumentFactory Document { get; private set; }
+
+        /// <summary>
         /// The default title for new documents.
         /// </summary>
         private string _defaultTitle { get; set; }
@@ -31,11 +36,6 @@ namespace Markdown.Documents
         /// The min number of characters for a sentence fragment to be created.
         /// </summary>
         private int _minSentenceLength { get; set; }
-
-        /// <summary>
-        /// The document fragments.
-        /// </summary>
-        public DocumentFactory Document { get; private set; }
 
         /// <summary>
         /// Adds the body fragment to the document.

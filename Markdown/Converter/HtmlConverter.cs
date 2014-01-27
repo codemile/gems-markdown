@@ -4,7 +4,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml;
 using HtmlAgilityPack;
-using Markdown.Documents;
+using Markdown.Writers;
 
 namespace Markdown.Converter
 {

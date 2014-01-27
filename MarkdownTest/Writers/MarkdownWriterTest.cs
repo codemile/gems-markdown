@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using Markdown.Converter;
-using Markdown.Documents;
 using Markdown.Writers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Markdown.Converter;
 
-namespace Markdown.Documents
+namespace Markdown.Writers
 {
     /// <summary>
     /// Handles writing to memory storage the document as it's converted.

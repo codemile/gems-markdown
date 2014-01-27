@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Xml;
 using Markdown.Converter;
-using Markdown.Documents;
 using Markdown.Writers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

@@ -76,7 +76,6 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Documents\DocumentFragmentWriterTest.cs" />
     <Compile Include="Converter\HtmlConverterTest.cs" />
     <Compile Include="Readers\MarkdownReaderTest.cs" />
     <Compile Include="MarkdownTest.cs" />

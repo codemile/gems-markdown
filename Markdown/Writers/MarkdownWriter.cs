@@ -3,7 +3,6 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using Markdown.Converter;
-using Markdown.Documents;
 
 namespace Markdown.Writers
 {

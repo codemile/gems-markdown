@@ -76,12 +76,12 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Converter\HtmlConverterTest.cs" />
-    <Compile Include="Readers\MarkdownReaderTest.cs" />
+    <Compile Include="Converter\HtmlConverterTests.cs" />
+    <Compile Include="Readers\MarkdownReaderTests.cs" />
     <Compile Include="MarkdownTest.cs" />
-    <Compile Include="Writers\MarkdownWriterTest.cs" />
+    <Compile Include="Writers\MarkdownWriterTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Converter\SimpleXmlNodeTest.cs" />
+    <Compile Include="Converter\SimpleXmlNodeTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\c-sharp\NoSweatBudgets\CommonTest\CommonTest.csproj">

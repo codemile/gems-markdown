@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace MarkdownTest.Readers
 {
     [TestClass]
-    public class MarkdownReaderTest : MarkdownTest
+    public class MarkdownReaderTests : MarkdownTest
     {
         [TestMethod]
         public void Change_Reference_Url()

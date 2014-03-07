@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace MarkdownTest.Writers
 {
     [TestClass]
-    public class MarkdownWriterTest : MarkdownTest
+    public class MarkdownWriterTests : MarkdownTest
     {
         [TestMethod]
         public void Test_Post_2248()

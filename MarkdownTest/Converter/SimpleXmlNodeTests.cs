@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace MarkdownTest.Converter
 {
     [TestClass]
-    public class SimpleXmlNodeTest : MarkdownTest
+    public class SimpleXmlNodeTests : MarkdownTest
     {
         [TestMethod]
         public void Transfers_Attributes()

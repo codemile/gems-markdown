@@ -12,7 +12,7 @@ namespace MarkdownTest.Converter
     /// to contain all HtmlConverterTest Unit Tests
     /// </summary>
     [TestClass]
-    public class HtmlConverterTest : MarkdownTest
+    public class HtmlConverterTests : MarkdownTest
     {
         [TestMethod]
         public void Clean()

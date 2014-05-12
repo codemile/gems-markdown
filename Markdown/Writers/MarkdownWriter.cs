@@ -75,7 +75,7 @@ namespace Markdown.Writers
         /// <summary>
         /// The converted text
         /// </summary>
-        public string text
+        public string Text
         {
             get { return _buffer.ToString(); }
         }

@@ -9,7 +9,7 @@ using Markdown.Writers;
 namespace Markdown.Converter
 {
     /// <summary>
-    /// Class uses to convert HTML to Markdown.
+    /// Class used to convert HTML to Markdown.
     /// </summary>
     public class HtmlConverter
     {

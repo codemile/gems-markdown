@@ -47,16 +47,6 @@ namespace Markdown.Converter
         /// <summary>
         /// Constructor
         /// </summary>
-        public SimpleXmlNode(string pName, string pValue)
-            : this()
-        {
-            Name = pName;
-            Value = pValue;
-        }
-
-        /// <summary>
-        /// Constructor
-        /// </summary>
         public SimpleXmlNode(XmlReader pReader)
             : this()
         {

@@ -18,7 +18,7 @@ namespace MarkdownTest.Writers
             HtmlConverter.Convert(new List<iDocumentWriter> {writer}, html);
 
             string markdown = getResourceAsString("Markdown.post-2248.txt");
-            string text = writer.text;
+            string text = writer.Text;
 
             markdown = markdown.Replace("\r", "").Trim();
             text = text.Replace("\r", "").Trim();
